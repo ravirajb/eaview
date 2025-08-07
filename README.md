@@ -59,15 +59,13 @@ To create a foundational Enterprise Architecture (EA) strategy and operational r
 
 | Deliverable                     | Suggested Template                                              |
 | ------------------------------- | --------------------------------------------------------------- |
-| Business Capability Map         | Capability tiers with strategic importance (Excel or Visio)     |
-| Target Operating Model          | Business Process Swimlanes (Visio, Draw\.io)                    |
+| Business Capability Map         | Capability tiers with strategic importance (Excel)     |
+| Target Operating Model          | Business Process Swimlanes (Lucidchart)                    |
 | Product Buy vs Build Matrix     | Criteria-weighted scoring sheet (Excel)                         |
-| Network Architecture Blueprint  | Layered network diagram with cloud zones (Lucidchart/Visio)     |
-| Security Reference Architecture | Zero Trust + Security Zone Map (PowerPoint or Draw\.io)         |
-| EA Charter                      | TOGAF-aligned vision, scope, governance PDF/Doc                 |
-| AI Governance Policy            | Model lifecycle, ethics, approval workflow (Word doc or PDF)    |
-| Cost Optimization Report        | Before-after cost visuals and action matrix (Excel or Power BI) |
+| Network Architecture Blueprint  | Layered network diagram with cloud zones (Lucidchart)     |
+| Security Reference Architecture | Zero Trust + Security Zone Map (Lucidchart)         |
+| EA Charter                      | TOGAF-aligned vision, scope, governance Doc                 |
+| AI Governance Policy            | Model lifecycle, ethics, approval workflow (doc)    |
+| Cost Optimization Report        | Before-after cost visuals and action matrix (Excel) |
 
 ---
-
-Let me know if you'd like downloadable versions of any of these templates.
