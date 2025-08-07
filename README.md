@@ -69,3 +69,5 @@ To create a foundational Enterprise Architecture (EA) strategy and operational r
 | Cost Optimization Report        | Before-after cost visuals and action matrix (Excel) |
 
 ---
+
+[Template](ea-charter.md)
